@@ -15,29 +15,29 @@ Different tasks will require different evaluation methods. Be as thorough as pos
 - [20 Points] Summarize the Ramifications 
 
 ### Option A: Cluster Analysis 
-• Train: Perform cluster analysis using several clustering methods (adjust parameters). 
-• Eval: Use internal and/or external validation measures to describe and compare the clusterings and the clusters— how did you determine a suitable number of clusters for each method? 
-• Visualize: Use tables/visualization to discuss the found results. Explain each visualization in detail. 
-• Summarize: Describe your results. What findings are the most interesting and why? 
+- Train: Perform cluster analysis using several clustering methods (adjust parameters). 
+- Eval: Use internal and/or external validation measures to describe and compare the clusterings and the clusters— how did you determine a suitable number of clusters for each method? 
+- Visualize: Use tables/visualization to discuss the found results. Explain each visualization in detail. 
+- Summarize: Describe your results. What findings are the most interesting and why? 
 
 ### Option B: Association Rule Mining 
-• Train: Create frequent itemsets and association rules (adjust parameters). 
-• Eval: Use several measure for evaluating how interesting different rules are. 
-• Visualize: Use tables/visualization to discuss the found results. 
-• Summarize: Describe your results. What findings are the most compelling and why? 
+- Train: Create frequent itemsets and association rules (adjust parameters). 
+- Eval: Use several measure for evaluating how interesting different rules are. 
+- Visualize: Use tables/visualization to discuss the found results. 
+- Summarize: Describe your results. What findings are the most compelling and why? 
 
 ### Option C: Collaborative Filtering 
-• Train: Create user-item matrices or item-item matrices using collaborative filtering (adjust parameters). 
-• Eval: Determine performance of the recommendations using different performance measures (explain the ramifications of each measure). 
-• Visualize: Use tables/visualization to discuss the found results. Explain each visualization in detail. 
-• Summarize: Describe your results. What findings are the most compelling and why?
+- Train: Create user-item matrices or item-item matrices using collaborative filtering (adjust parameters). 
+- Eval: Determine performance of the recommendations using different performance measures (explain the ramifications of each measure). 
+- Visualize: Use tables/visualization to discuss the found results. Explain each visualization in detail. 
+- Summarize: Describe your results. What findings are the most compelling and why?
 
 ## Deployment (10 points total) 
 Be critical of your performance and tell the reader how you current model might be usable by other parties. Did you achieve your goals? If not, can you reign in the utility of your modeling? 
-• How useful is your model for interested parties (i.e., the companies or organizations that might want to use it)? 
-• How would your deploy your model for interested parties? 
-• What other data should be collected? 
-• How often would the model need to be updated, etc.? 
+- How useful is your model for interested parties (i.e., the companies or organizations that might want to use it)? 
+- How would your deploy your model for interested parties? 
+- What other data should be collected? 
+- How often would the model need to be updated, etc.? 
 
 ## Exceptional Work (10 points total) 
 You have free reign to provide additional analyses or combine analyses.
