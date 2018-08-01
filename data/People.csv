@@ -1,4 +1,19 @@
-playerID,birthYear,birthMonth,birthDay,birthCountry,birthState,birthCity,deathYear,deathMonth,deathDay,deathCountry,deathState,deathCity,nameFirst,nameLast,nameGiven,weight,height,bats,throws,debut,finalGame,retroID,bbrefID
+﻿playerID,birthYear,birthMonth,birthDay,birthCountry,birthState,birthCity,deathYear,deathMonth,deathDay,deathCountry,deathState,deathCity,nameFirst,nameLast,nameGiven,weight,height,bats,throws,debut,finalGame,retroID,bbrefID
+adkindo01,1872,8,5,USA,WI,Troy,1934,2,21,USA,NC,Durham,Doc,Adkins,Merle Theron,220,70,R,R,1902-06-24,1903-09-29,adkid102,adkindo01
+adkingr01,1897,6,29,USA,AR,Jacksonville,1966,3,31,USA,AR,Little Rock,Grady,Adkins,Grady Emmett,175,71,R,R,1928-04-13,1929-10-05,adkig101,adkingr01
+adkinhe01,1874,1,19,USA,MO,Fulton,1953,1,2,USA,MO,Mexico,Harry,Atkinson,John Harry,,,,,1895-09-25,1895-09-25,adkih101,adkinhe01
+adkinjo01,1977,8,30,USA,WV,Huntington,,,,,,,Jon,Adkins,Jonathan Scott,200,72,L,R,2003-08-14,2008-09-27,adkij001,adkinjo01
+adkinst01,1964,10,26,USA,IL,Chicago,,,,,,,Steve,Adkins,Steven Thomas,210,78,R,L,1990-09-12,1990-10-03,adkis001,adkinst01
+adlemti01,1987,11,13,USA,NY,Staten Island,,,,,,,Tim,Adleman,Timothy Max,225,77,R,R,2016-05-01,2017-09-19,adlet001,adlemti01
+adlesda01,1943,7,15,USA,CA,Long Beach,2016,2,15,USA,CA,Long Beach,Dave,Adlesh,David George,187,72,R,R,1963-05-12,1968-09-28,adled101,adlesda01
+adriaeh01,1989,8,21,Venezuela,Miranda,Guarenas,,,,,,,Ehire,Adrianza,Ehire Enrique,170,73,B,R,2013-09-08,2017-10-01,adrie001,adriaeh01
+afenitr01,1963,9,21,USA,CA,Escondido,,,,,,,Troy,Afenir,Michael Troy,185,76,R,R,1987-09-14,1992-07-10,afent001,afenitr01
+affelje01,1979,6,6,USA,AZ,Phoenix,,,,,,,Jeremy,Affeldt,Jeremy David,225,76,L,L,2002-04-06,2015-10-04,affej001,affelje01
+agbaybe01,1971,12,28,USA,HI,Honolulu,,,,,,,Benny,Agbayani,Benny Peter,225,72,R,R,1998-06-17,2002-09-29,agbab001,agbaybe01
+ageeto01,1942,8,9,USA,AL,Magnolia,2001,1,22,USA,NY,New York,Tommie,Agee,Tommie Lee,195,71,R,R,1962-09-14,1973-09-30,ageet101,ageeto01
+agganha01,1929,4,20,USA,MA,Lynn,1955,6,27,USA,MA,Cambridge,Harry,Agganis,Harry,200,74,L,L,1954-04-13,1955-06-02,aggah101,agganha01
+aglerjo01,1887,6,12,USA,OH,Coshocton,1971,4,26,USA,OH,Massillon,Joe,Agler,Joseph Abram,165,71,L,L,1912-10-01,1915-10-02,aglej101,aglerjo01
+agnewsa01,1887,4,12,USA,MO,Farmington,1951,7,19,USA,CA,Sonoma,Sam,Agnew,Samuel Lester,185,71,R,R,1913-04-10,1919-09-28,agnes101,agnewsa01
 aardsda01,1981,12,27,USA,CO,Denver,,,,,,,David,Aardsma,David Allan,215,75,R,R,2004-04-06,2015-08-23,aardd001,aardsda01
 aaronha01,1934,2,5,USA,AL,Mobile,,,,,,,Hank,Aaron,Henry Louis,180,72,R,R,1954-04-13,1976-10-03,aaroh101,aaronha01
 aaronto01,1939,8,5,USA,AL,Mobile,1984,8,16,USA,GA,Atlanta,Tommie,Aaron,Tommie Lee,190,75,R,R,1962-04-10,1971-09-26,aarot101,aaronto01
@@ -105,21 +120,6 @@ adenhni01,1986,8,24,USA,MD,Silver Spring,2009,4,9,USA,CA,Orange,Nick,Adenhart,Ni
 aderhmo01,1915,9,13,USA,NC,Mount Olive,1955,3,18,USA,FL,Sarasota,Morrie,Aderholt,Morris Woodrow,188,73,L,R,1939-09-13,1945-09-30,aderm101,aderhmo01
 adkinde01,1918,5,11,USA,KS,Norcatur,1998,12,26,USA,CA,Santa Monica,Dewey,Adkins,John Dewey,195,74,R,R,1942-09-19,1949-10-02,adkid103,adkinde01
 adkindi01,1920,3,3,USA,TX,Electra,1955,9,12,USA,TX,Electra,Dick,Adkins,Richard Earl,165,70,R,R,1942-09-19,1942-09-20,adkid101,adkindi01
-adkindo01,1872,8,5,USA,WI,Troy,1934,2,21,USA,NC,Durham,Doc,Adkins,Merle Theron,220,70,R,R,1902-06-24,1903-09-29,adkid102,adkindo01
-adkingr01,1897,6,29,USA,AR,Jacksonville,1966,3,31,USA,AR,Little Rock,Grady,Adkins,Grady Emmett,175,71,R,R,1928-04-13,1929-10-05,adkig101,adkingr01
-adkinhe01,1874,1,19,USA,MO,Fulton,1953,1,2,USA,MO,Mexico,Harry,Atkinson,John Harry,,,,,1895-09-25,1895-09-25,adkih101,adkinhe01
-adkinjo01,1977,8,30,USA,WV,Huntington,,,,,,,Jon,Adkins,Jonathan Scott,200,72,L,R,2003-08-14,2008-09-27,adkij001,adkinjo01
-adkinst01,1964,10,26,USA,IL,Chicago,,,,,,,Steve,Adkins,Steven Thomas,210,78,R,L,1990-09-12,1990-10-03,adkis001,adkinst01
-adlemti01,1987,11,13,USA,NY,Staten Island,,,,,,,Tim,Adleman,Timothy Max,225,77,R,R,2016-05-01,2017-09-19,adlet001,adlemti01
-adlesda01,1943,7,15,USA,CA,Long Beach,2016,2,15,USA,CA,Long Beach,Dave,Adlesh,David George,187,72,R,R,1963-05-12,1968-09-28,adled101,adlesda01
-adriaeh01,1989,8,21,Venezuela,Miranda,Guarenas,,,,,,,Ehire,Adrianza,Ehire Enrique,170,73,B,R,2013-09-08,2017-10-01,adrie001,adriaeh01
-afenitr01,1963,9,21,USA,CA,Escondido,,,,,,,Troy,Afenir,Michael Troy,185,76,R,R,1987-09-14,1992-07-10,afent001,afenitr01
-affelje01,1979,6,6,USA,AZ,Phoenix,,,,,,,Jeremy,Affeldt,Jeremy David,225,76,L,L,2002-04-06,2015-10-04,affej001,affelje01
-agbaybe01,1971,12,28,USA,HI,Honolulu,,,,,,,Benny,Agbayani,Benny Peter,225,72,R,R,1998-06-17,2002-09-29,agbab001,agbaybe01
-ageeto01,1942,8,9,USA,AL,Magnolia,2001,1,22,USA,NY,New York,Tommie,Agee,Tommie Lee,195,71,R,R,1962-09-14,1973-09-30,ageet101,ageeto01
-agganha01,1929,4,20,USA,MA,Lynn,1955,6,27,USA,MA,Cambridge,Harry,Agganis,Harry,200,74,L,L,1954-04-13,1955-06-02,aggah101,agganha01
-aglerjo01,1887,6,12,USA,OH,Coshocton,1971,4,26,USA,OH,Massillon,Joe,Agler,Joseph Abram,165,71,L,L,1912-10-01,1915-10-02,aglej101,aglerjo01
-agnewsa01,1887,4,12,USA,MO,Farmington,1951,7,19,USA,CA,Sonoma,Sam,Agnew,Samuel Lester,185,71,R,R,1913-04-10,1919-09-28,agnes101,agnewsa01
 agostju01,1958,2,23,P.R.,,Rio Piedras,,,,,,,Juan,Agosto,Juan Roberto,190,74,L,L,1981-09-07,1993-06-19,agosj001,agostju01
 aguaylu01,1959,3,13,P.R.,,Vega Baja,,,,,,,Luis,Aguayo,Luis,173,69,R,R,1980-04-19,1989-09-30,agual001,aguaylu01
 aguilch01,1979,2,23,USA,CA,Redwood City,,,,,,,Chris,Aguila,Christopher Louis,200,71,R,R,2004-06-28,2008-07-10,aguic001,aguilch01
